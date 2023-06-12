@@ -1,4 +1,6 @@
 ![image](https://github.com/xleyzor/newsletter-sign-up-with-success-message-main/assets/122406455/45259bef-077f-4d50-a8a0-0228e60d6d51)
+![image](https://github.com/xleyzor/newsletter-sign-up-with-success-message-main/assets/122406455/ae9e7939-f65c-4301-ac15-5c7d643006df)
+
 
 
 <h1>Newsletter Sign-up With Success Message main</h1>
